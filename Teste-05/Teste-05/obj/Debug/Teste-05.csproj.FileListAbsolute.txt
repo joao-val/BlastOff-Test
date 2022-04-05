@@ -1,0 +1,8 @@
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\bin\Debug\Teste-05.exe.config
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\bin\Debug\Teste-05.exe
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\bin\Debug\Teste-05.pdb
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\obj\Debug\Teste-05.csproj.AssemblyReference.cache
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\obj\Debug\Teste-05.csproj.SuggestedBindingRedirects.cache
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\obj\Debug\Teste-05.csproj.CoreCompileInputs.cache
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\obj\Debug\Teste-05.exe
+L:\Joao\C#\BlastOff\Teste-05\Teste-05\obj\Debug\Teste-05.pdb
